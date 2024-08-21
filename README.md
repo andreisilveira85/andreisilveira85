@@ -14,14 +14,16 @@ Sou desenvolvedor full stack. Aqui no GitHub, você verá projetos que demonstra
 ## ⚙️ Tecnologias e Ferramentas
 
 ```text
-Java, Spring Boot, C#, JavaScript, TypeScript, React, Angular, Node.js, Docker, Kubernetes, AWS, Git, VSCode, SQL, NoSQL, Microserviços.
+Java, Spring Boot, C#, JavaScript, TypeScript, React, Angular, Node.js, Docker, Kubernetes, AWS, Git,
+VSCode, InteliJ, Postman, SQL, NoSQL, Microserviços.
 
 
 ### Estatísticas do GitHub
 ```markdown
 ## 📊 Minhas Estatísticas
 
-![Andrei Silveira](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![andreisilveira85](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+
 
 ## 📫 Contato
 
