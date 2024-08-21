@@ -13,7 +13,6 @@ Sou desenvolvedor full stack. Aqui no GitHub, você verá projetos que demonstra
 
 ## ⚙️ Tecnologias e Ferramentas
 
-```text
 Java, Spring Boot, C#, JavaScript, TypeScript, React, Angular, Node.js, Docker, Kubernetes, AWS, Git,
 VSCode, InteliJ, Postman, SQL, NoSQL, Microserviços.
 
