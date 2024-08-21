@@ -17,16 +17,16 @@ Sou desenvolvedor full stack. Aqui no GitHub, você verá projetos que demonstra
 Java, Spring Boot, C#, JavaScript, TypeScript, React, Angular, Node.js, Docker, Kubernetes, AWS, Git,
 VSCode, InteliJ, Postman, SQL, NoSQL, Microserviços.
 
-## 📊 Minhas Estatísticas
-
-![Andrei Silveira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreisilveira85&show_icons=true&theme=radical)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andreisilveira85&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andreisilveira85&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreisilveira85&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📫 Contato
 
 Para mais informações e colaborações, não hesite em se conectar comigo:
 
-- **LinkedIn:** [Andrei Silveira](https://www.linkedin.com/in/andreijsilveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreijsilveira) 
 
 ---
 
