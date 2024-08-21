@@ -22,7 +22,10 @@ VSCode, InteliJ, Postman, SQL, NoSQL, Microserviços.
 ```markdown
 ## 📊 Minhas Estatísticas
 
-![andreisilveira85](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+## 📊 Minhas Estatísticas
+
+![Andrei Silveira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreisilveira85&show_icons=true&theme=radical)
+
 
 
 ## 📫 Contato
