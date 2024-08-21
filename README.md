@@ -18,10 +18,10 @@ Java, Spring Boot, C#, JavaScript, TypeScript, React, Angular, Node.js, Docker, 
 VSCode, InteliJ, Postman, SQL, NoSQL, Microserviços.
 
 ### Estatísticas do GitHub
-```markdown
+
 ## 📊 Minhas Estatísticas
 
-![Andrei Silveira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreisilveira85&show_icons=true&theme=radical)```
+`![Andrei Silveira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreisilveira85&show_icons=true&theme=radical)`
 
 
 ## 📫 Contato
